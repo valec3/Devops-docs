@@ -1,5 +1,1 @@
-# Movies_Website
-Tech
-React
-Tailwind
-Node
+## LISTA DE CHEATSHEETS PARA DEVOPS EN DIGITAL OCEAN
